@@ -1,0 +1,3 @@
+title=AsrologyFutureEye
+author=AFETeam
+orientation=portrait
