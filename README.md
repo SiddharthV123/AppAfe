@@ -1,2 +1,2 @@
-APPAfe documentation is available at https://astrologyfutureeye.com/.
+Visit us @ https://astrologyfutureeye.com/.
 
